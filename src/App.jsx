@@ -1,10 +1,14 @@
 import "./App.css";
+import Daisynav from "./daisynav/Daisynav";
+import NavBar from "./NavBar/NavBar";
 
 function App() {
-  return <>
-    <h1 className="text-6xl text-red-400">My Name is Bappy Mridha</h1>
-    <button className="btn btn-success">Success</button>
-  </>;
+  return (
+    <>
+      {/* <Daisynav></Daisynav> */}
+      <NavBar></NavBar>
+    </>
+  );
 }
 
 export default App;
