@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 10,
+    "duration": "month",
+    "description": "Perfect for beginners starting football training",
+    "features": [
+      "2 Training Sessions / Week",
+      "Access to Basic Drills",
+      "Community Support",
+      "Limited Match Analysis"
+    ],
+    "popular": false,
+    "buttonText": "Get Started"
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 25,
+    "duration": "month",
+    "description": "Best for regular players improving skills",
+    "features": [
+      "4 Training Sessions / Week",
+      "Advanced Drills",
+      "Match Analysis",
+      "Coach Feedback",
+      "Fitness Program"
+    ],
+    "popular": true,
+    "buttonText": "Choose Plan"
+  },
+  {
+    "id": 3,
+    "name": "Pro",
+    "price": 50,
+    "duration": "month",
+    "description": "For serious players aiming professional level",
+    "features": [
+      "Daily Training",
+      "1-on-1 Coaching",
+      "Personalized Training Plan",
+      "Full Match Analysis",
+      "Diet & Fitness Plan",
+      "Priority Support"
+    ],
+    "popular": false,
+    "buttonText": "Go Pro"
+  }
+]
